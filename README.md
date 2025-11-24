@@ -1,6 +1,4 @@
-# PIRIS Marius GP3
-
-Bonjour
+# Machine Learning Experiment
 Il y a plusieurs scène dispo pour tester chaque situation : 
 
 -XOR + Backpropagation + Sigmoide 
@@ -22,11 +20,6 @@ Il y a plusieurs scène dispo pour tester chaque situation :
 - Gain reglable en fonction de la fonction de threshold choisi (+ dérivés)
 - Fonctions de threshold pour les perceptrons d'input et d'output différenciés des fonctions de threshold pour les hiden layers
 
-Cordialement 
-
-
-
-
 # Après le problème de TMP_PRO
 J'ai mis en OLD_ les anciennes scènes et j'ai fait la scène FINAL
 Dans l'éditeur on peut tweak les parametres de "AI Trainer" : 
@@ -36,4 +29,3 @@ Dans l'éditeur on peut tweak les parametres de "AI Trainer" :
 - Perceptron number : le nombre de perceptron sur chaque hidden layer
 - Use genetic algo
 - Threshold Type Genetic : le Threshold Type de l'algo génétique
-
