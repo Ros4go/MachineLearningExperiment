@@ -21,6 +21,7 @@ Il y a plusieurs scène dispo pour tester chaque situation :
 - Fonctions de threshold pour les perceptrons d'input et d'output différenciés des fonctions de threshold pour les hiden layers
 
 ![Enemy Exemple](Assets/Ressource/HighEnemyStrenght.png)
+![Enemy Exemple](Assets/Ressource/LowEnemyStrenght.png)
 
 # Après le problème de TMP_PRO
 J'ai mis en OLD_ les anciennes scènes et j'ai fait la scène FINAL
@@ -32,4 +33,4 @@ Dans l'éditeur on peut tweak les parametres de "AI Trainer" :
 - Use genetic algo
 - Threshold Type Genetic : le Threshold Type de l'algo génétique
 
-![Enemy Exemple](Assets/Ressource/LowEnemyStrenght.png)
+
